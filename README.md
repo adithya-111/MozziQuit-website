@@ -80,9 +80,4 @@ This version is actively being updated and redesigned to:
 - Enhance aesthetics and responsiveness
 - Provide a smoother UX compared to the older versions
 
-#Let me know if:
-- You’re using Tailwind or any UI library
-- You want to add environment variables (for forms, etc.)
-- You’d like a `LICENSE` or `CONTRIBUTING.md`
 
-I'll help with those too!

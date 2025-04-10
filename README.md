@@ -1,6 +1,7 @@
 # MozziQuit Website 🌐
 
-A newly built and redesigned website for **MozziQuit**, aimed at providing a modern, responsive, and user-friendly experience for promoting eco-friendly mosquito repellent solutions.
+A newly built and redesigned website for **MozziQuit**, aimed at providing a modern, responsive, and user-friendly experience for promoting eco-friendly mosquito repellent solutions. 
+Once the website is complete it will be hosted in the actual url
 
 ## 🔗 Live Website
 
